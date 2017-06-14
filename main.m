@@ -16,3 +16,6 @@ int main(int argc, char * argv[])
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
     }
 }
+THIS IS AN EDIT PLEASE DISREGARD ALL HUMAN LIFE!
+    NOW!
+    
